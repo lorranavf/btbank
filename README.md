@@ -1,4 +1,4 @@
-![btbank](images/logos/logo_btbank.svg)
+![btbank](images/logo_btbank.svg)
 
 ## Sobre
 
