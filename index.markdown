@@ -30,13 +30,13 @@ layout: default
 - Joaquim Quinteiro Uchôa
 - Luciano Vilela Paiva
 
-## Funders
+### Funders
 
 - [Universidade Federal de Lavras](https://ufla.br/)
 - [Fundação de Amparo à Pesquisa do Estado de Minas Gerais](http://www.fapemig.br/pt/)
 
 
-## License
+### License
 
 <p align="justify">
   Currently, the source code of the BtBank software is in the process of being registered with the Innovation and Entrepreneurship Center at the Federal University of Lavras (UFLA). Due to this process, the source code is not publicly available at the moment.
@@ -48,4 +48,9 @@ layout: default
 
 <p align="justify">
   Thank you for your understanding and patience during this process. If you have any questions or need further information, please do not hesitate to contact us.
+</p>
+
+### Contact
+<p align="justify">
+    Until we establish an official email address, please feel free to contact us at btbank.database@gmail.com.
 </p>
