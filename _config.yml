@@ -20,9 +20,9 @@
 
 title:
 logo: /images/logo.svg
-description: Platform to support the prospecting of pesticidal proteins from Bacillus thuringiensis.
+description: 
 show_downloads: true
-google_analytics:
+google_analytics: false
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
