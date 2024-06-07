@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: teste
+title:
 logo: /images/logo.svg
-description: teste
-show_downloads: true
+description:
+show_downloads: false
 google_analytics:
 
 # baseurl: "" # the subpath of your site, e.g. /blog
