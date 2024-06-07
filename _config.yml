@@ -21,8 +21,7 @@
 title:
 logo: /images/logo.svg
 description: 
-show_downloads: true
-google_analytics: false
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -30,6 +29,7 @@ google_analytics: false
 
 # Build settings
 # theme: minima
+
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
