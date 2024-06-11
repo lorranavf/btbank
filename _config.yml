@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BtBank App
+title: BtBank
 logo: /images/logo.svg
 description: BtBank is a web-based application designed to facilitate the discovery of pesticidal proteins derived from Bacillus thuringiensis.
 # description: BtBank is a web-based application designed to facilitate the discovery and analysis of pesticidal proteins derived from Bacillus thuringiensis.
