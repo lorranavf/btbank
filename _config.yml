@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BtBank
-logo: /images/logo.svg
+logo: /images/logo.png
 description: BtBank is a web-based application designed to facilitate the discovery of pesticidal proteins derived from Bacillus thuringiensis.
 # description: BtBank is a web-based application designed to facilitate the discovery and analysis of pesticidal proteins derived from Bacillus thuringiensis.
 
