@@ -4,7 +4,6 @@
 
 layout: default
 ---
-### BtBank: Platform to support the prospecting of pesticidal proteins from Bacillus thuringiensis.
 <p align="justify">
     Bacillus thuringiensis is a bacteria that produces pesticidal proteins essential for biological pest control. The development of Bt-based products relies on the discovery of new strains, toxins, and their respective targets. That's why we have developed a web platform to assist in data management and analysis for Bt strain and pesticidal protein prospecting programs.
 </p>
