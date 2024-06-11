@@ -1,0 +1,44 @@
+% document settings
+\documentclass{article}
+\usepackage[margin=2cm]{geometry}
+% \usepackage[utf8]{inputenc}
+% \usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{authblk}
+
+% title
+\title{BtBank: A Web Platform for Streamlining \textit{Bacillus thuringiensis} Protein Prospecting}
+
+% authors 
+\author[1]{Lorrana Verdi Flores}
+\author[2]{Luiz Victor Soriano da Conceição}
+\author[3]{Giselly Batista Alves}
+\author[4]{Renato Ramos da Silva}
+\author[5]{Joaquim Quinteiro Uchoa}
+\author[6]{Luciano Vilela Paiva}
+
+% affiliations
+\affil[1,2,3,4,5,6]{Universidade Federal de Lavras}
+
+% date
+\date{April 2024}
+
+% document
+\begin{document}
+\maketitle
+\begin{abstract}
+Bacillus thuringiensis (Bt) is well-known for its pesticide protein production, making it a valuable resource for pest control in agriculture. Even though bacterial genome sequencing has become more accessible, the vast diversity of proteins and target species presents a formidable challenge, with much yet to be discovered. Furthermore, managing these protein prospecting programs at scale presents an additional significant obstacle. This is where BtBank steps in to assist. BtBank is a Flask and Docker-based web application designed to streamline the analysis and management of data related to Bt protein prospecting. BtBank addresses the requirement for a centralized platform that integrates multiple stages of the prospecting process, from sample collection to toxin identification. The platform provides a range of functionalities, including user management with role-based access control, data registration for samples, isolates, protein profiles, bioassays, sequencing data, toxins, and targets. Furthermore, BtBank features a comprehensive logging system to track user actions, ensuring data integrity and accountability. Future developments aim to enhance the platform's capabilities by implementing a knowledge base associated with each process stage, automated bacterial genome assembly and annotation pipelines, and an interactive map of sample collection regions. BtBank plays an important role in accelerating the pace of Bt protein prospecting by providing researchers with a comprehensive platform for data management and analysis. By centralizing data and streamlining workflows, BtBank enables researchers to efficiently explore the diverse repertoire of pesticidal proteins produced by Bt strains, ultimately contributing to advancements in sustainable pest management strategies. In summary, BtBank is a valuable tool for researchers in Bacillus thuringiensis protein prospecting, offering a user-friendly interface, robust data management capabilities, and the potential to drive discoveries that benefit agricultural sustainability and pest control efforts.
+
+\end{abstract}
+
+\textbf{Keywords}
+
+Bacillus thuringiensis, Protein Prospecting, BtBank, Flask, Data Management, Agricultural Sustainability.
+
+\section{Poster}
+\include{poster}
+
+\section{Presentation}  
+\include{presentation}
+
+\end{document}
