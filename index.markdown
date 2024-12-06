@@ -34,22 +34,11 @@ layout: default
 - [Universidade Federal de Lavras](https://ufla.br/)
 - [Fundação de Amparo à Pesquisa do Estado de Minas Gerais](http://www.fapemig.br/pt/)
 
-
-### License
-
+### Publications
 <p align="justify">
-  Currently, the source code of the BtBank software is in the process of being registered with the Innovation and Entrepreneurship Center at the Federal University of Lavras (UFLA). Due to this process, the source code is not publicly available at the moment.
+FLORES, Lorrana Verdi et al.. BTBANK: A WEB PLATFORM FOR STREAMLINING BACILLUS THURINGIENSIS PROTEIN PROSPECTING.. In: X-Meeting presentations. Anais...Salvador(BA) Hotel Deville Prime, 2024. Available in: https//www.even3.com.br/anais/xmeeting-2024/831976-BTBANK--A-WEB-PLATFORM-FOR-STREAMLINING-BACILLUS-THURINGIENSIS-PROTEIN-PROSPECTING. Access in: 06/12/2024
 </p>
 
 <p align="justify">
-  As soon as the registration process is completed and the intellectual property rights are properly protected, we plan to make the source code available under an open-source license. This will allow other developers to contribute to the project and use the software according to the terms of the license.
-</p>
-
-<p align="justify">
-  Thank you for your understanding and patience during this process. If you have any questions or need further information, please do not hesitate to contact us.
-</p>
-
-### Contact
-<p align="justify">
-    Until we establish an official email address, please feel free to contact us at btbank.database@gmail.com.
+Computer Program. Registration number: 512024004120-6. Registration date: 10/31/2024, title: "BtBank: Plataforma de apoio à prospecção de proteínas pesticidas de Bacillus thuringiensis". Registration institution: INPI - National Institute of Industrial Property. Local: Brazil. 
 </p>
