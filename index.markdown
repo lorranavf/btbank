@@ -36,7 +36,7 @@ layout: default
 
 ### Publications
 <p align="justify">
-FLORES, Lorrana Verdi et al.. BTBANK: A WEB PLATFORM FOR STREAMLINING BACILLUS THURINGIENSIS PROTEIN PROSPECTING.. In: X-Meeting presentations. Anais...Salvador(BA) Hotel Deville Prime, 2024. Available in: https//www.even3.com.br/anais/xmeeting-2024/831976-BTBANK--A-WEB-PLATFORM-FOR-STREAMLINING-BACILLUS-THURINGIENSIS-PROTEIN-PROSPECTING. Access in: 06/12/2024
+FLORES, Lorrana Verdi et al.. BTBANK: A WEB PLATFORM FOR STREAMLINING BACILLUS THURINGIENSIS PROTEIN PROSPECTING.. In: X-Meeting presentations. Anais...Salvador(BA) Hotel Deville Prime, 2024. Available in: [xmeeting-2024-831976](https://www.even3.com.br/anais/xmeeting-2024/831976-btbank--a-web-platform-for-streamlining-bacillus-thuringiensis-protein-prospecting/). Access in: 06/12/2024
 </p>
 
 <p align="justify">
